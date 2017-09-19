@@ -1,0 +1,39 @@
+/*  styles.css  */
+
+.destination, .lineInfo {
+    margin: 1em;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.destination .title, .lineInfo .title {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+    background-color: lightgrey;
+    border-bottom: 1px solid black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.destination ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 0.5em 0;
+}
+
+.destination li {
+    padding: 0.5em;
+    border-bottom: 1px solid lightgrey; 
+}
+.destination .schedule li:last-child {
+    border-bottom: none; 
+}
+
+.info {
+    padding: 0.5em;
+}
+
+.info .slug {
+    font-weight: bold;
+}

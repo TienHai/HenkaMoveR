@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-hdpi/face_angry.png",
+        "source": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/src/main/res/drawable-hdpi/face_angry.png"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-hdpi/logo_rers_a.png",
+        "source": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/src/main/res/drawable-hdpi/logo_rers_a.png"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-hdpi/logo_metros_8.png",
+        "source": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/src/main/res/drawable-hdpi/logo_metros_8.png"
+    }
+]

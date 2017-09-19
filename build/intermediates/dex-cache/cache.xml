@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tien/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_21215022c12d43172b527baf513a44856cbf85b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tien/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_3ae3f7a570233bec18d1782597dc6f1d75163359/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e4c445ecdaf1535caffec7edfd1fa29e14deb4a5">
+        <dex dex="/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d9c77bdee8541c40dd69957cbc7d7ea1b3bf9432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tien/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_4ef73dfde47dd6fae29be8e0c949c72b7b5bcb7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tien/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_4f805b76540b26dd624b194f80a44b3c33e7ed24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tien/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.3.0/f436637f9500ab5b8bc32afe556373180894b4a5/adapter-rxjava2-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava2-2.3.0_305c284b32bbe51a71b56395287531f39b23ad13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e031326077f113515939a46e2e5f71de3c743ca5/classes.dex" />
+    </item>
+
+</items>
