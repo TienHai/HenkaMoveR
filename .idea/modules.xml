@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///data/Devel/HenkaDev/Henka_MoveR/Henka_MoveR.iml" filepath="/data/Devel/HenkaDev/Henka_MoveR/Henka_MoveR.iml" />
+      <module fileurl="file:///data/Devel/HenkaDev/Henka_MoveR/app/app.iml" filepath="/data/Devel/HenkaDev/Henka_MoveR/app/app.iml" />
+    </modules>
+  </component>
+</project>

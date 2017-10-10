@@ -1,5 +1,21 @@
 [
     {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_metros_8.png",
+        "source": "/data/Devel/HenkaDev/Henka_MoveR/app/src/main/res/drawable-xxhdpi/logo_metros_8.png"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_rers_a.png",
+        "source": "/data/Devel/HenkaDev/Henka_MoveR/app/src/main/res/drawable-xxhdpi/logo_rers_a.png"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_rers_a.png",
+        "source": "/data/DevelHenka/Henka_MoveR/app/src/main/res/drawable-xxhdpi/logo_rers_a.png"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-xxhdpi/face_angry.png",
+        "source": "/data/DevelHenka/Henka_MoveR/app/src/main/res/drawable-xxhdpi/face_angry.png"
+    },
+    {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-xxhdpi/face_angry.png",
         "source": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/src/main/res/drawable-xxhdpi/face_angry.png"
     },
@@ -8,7 +24,15 @@
         "source": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/src/main/res/drawable-xxhdpi/logo_metros_8.png"
     },
     {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-xxhdpi/face_angry.png",
+        "source": "/data/Devel/HenkaDev/Henka_MoveR/app/src/main/res/drawable-xxhdpi/face_angry.png"
+    },
+    {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_rers_a.png",
         "source": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/src/main/res/drawable-xxhdpi/logo_rers_a.png"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_metros_8.png",
+        "source": "/data/DevelHenka/Henka_MoveR/app/src/main/res/drawable-xxhdpi/logo_metros_8.png"
     }
 ]

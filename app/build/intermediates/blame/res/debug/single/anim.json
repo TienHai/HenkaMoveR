@@ -1,58 +1,170 @@
 [
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/anim/abc_slide_in_bottom.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/anim/abc_popup_enter.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_snackbar_in.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/home/tien/.android/build-cache/8ced4d0dd26b8c19c57e7af3701d3e59cb8e4908/output/res/anim/design_snackbar_in.xml"
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/anim/abc_slide_in_top.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/anim/abc_popup_exit.xml"
-    },
-    {
-        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/home/tien/.android/build-cache/8ced4d0dd26b8c19c57e7af3701d3e59cb8e4908/output/res/anim/design_snackbar_out.xml"
-    },
-    {
-        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/home/tien/.android/build-cache/8ced4d0dd26b8c19c57e7af3701d3e59cb8e4908/output/res/anim/design_bottom_sheet_slide_in.xml"
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/anim/abc_fade_in.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/anim/abc_fade_out.xml"
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/home/tien/.android/build-cache/8ced4d0dd26b8c19c57e7af3701d3e59cb8e4908/output/res/anim/design_bottom_sheet_slide_out.xml"
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/anim/abc_slide_out_bottom.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/anim/abc_slide_out_top.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim/design_snackbar_in.xml"
     }
 ]

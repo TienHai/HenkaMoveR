@@ -1,10 +1,26 @@
 [
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/home/tien/.android/build-cache/8ced4d0dd26b8c19c57e7af3701d3e59cb8e4908/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/home/tien/.android/build-cache/8ced4d0dd26b8c19c57e7af3701d3e59cb8e4908/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]

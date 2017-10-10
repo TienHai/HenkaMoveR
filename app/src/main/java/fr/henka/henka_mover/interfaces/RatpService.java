@@ -21,6 +21,20 @@ public interface RatpService {
      *
      * Requête pour récupérer tout le trafic du réseau RATP
      * https://api-ratp.pierre-grimaud.fr/v3/traffic
+     *
+     *
+     * Code Mission Rer A
+     * ------------------
+     *
+     * Un code mission commençant par la lettre :
+     *  - Q indique un terminus Marne-la-Vallée Chessy
+     *  - T indique un terminus Poissy
+     *  - Y indique un terminus Rueil
+     *  - D indique un terminus Noisy-le-grand
+     *  - R indique un terminus La Varenne-Chennevières
+     *  - N indique un terminus Boissy-Sain-Léger
+     *  - B indique un terminus La défense
+     *
      */
 
     @GET("traffic")

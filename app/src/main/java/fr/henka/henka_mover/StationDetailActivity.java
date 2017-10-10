@@ -36,6 +36,7 @@ public class StationDetailActivity extends AppCompatActivity implements SwipeRef
     private String type, code, station;
 
     private String header = "<html><head><meta charset='utf-8'/>"
+            + "<meta name='viewport' content='width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no,minimal-ui'>"
             + "<link rel='stylesheet' href='Css/metrodna.css' type='text/css'/>"
             + "<link rel='stylesheet' href='Css/styles.css' type='text/css'/>"
             + "</head><body>";

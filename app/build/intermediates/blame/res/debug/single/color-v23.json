@@ -1,46 +1,134 @@
 [
     {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v23/abc_tint_btn_checkable.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v23/abc_btn_colored_text_material.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
-        "source": "/home/tien/.android/build-cache/8ced4d0dd26b8c19c57e7af3701d3e59cb8e4908/output/res/color-v23/design_tint_password_toggle.xml"
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/color-v23/design_tint_password_toggle.xml"
     },
     {
-        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v23/abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v23/abc_tint_edittext.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v23/abc_tint_default.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v23/abc_tint_spinner.xml"
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/home/tien/.android/build-cache/4a199139139c5e60e4426561296f9b5bed3fc51d/output/res/color-v23/abc_tint_switch_thumb.xml"
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/tien/.android/build-cache/938174eaf6b96f3ea7902588c0ff79390ac226da/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/tien/.android/build-cache/6f31ee5c09fffac8b327301ec9517b6222e859ad/output/res/color-v23/abc_tint_spinner.xml"
     }
 ]

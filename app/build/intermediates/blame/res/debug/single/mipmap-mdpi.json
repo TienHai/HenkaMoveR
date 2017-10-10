@@ -4,7 +4,23 @@
         "source": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/data/Devel/HenkaDev/Henka_MoveR/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/data/Devel/HenkaDev/Henka_MoveR/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/data/Devel/HenkaDev/Henka_MoveR/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
         "source": "/data/WorkInProgress/Kotlin/Henka_MoveR/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/data/DevelHenka/Henka_MoveR/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/data/DevelHenka/Henka_MoveR/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/data/DevelHenka/Henka_MoveR/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     }
 ]
