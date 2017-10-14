@@ -48,6 +48,14 @@ INSERT INTO `transport_type`(`id`,`name`) VALUES (NULL,"tramways");
 
 
 -- #######################################################
+-- #  favorite
+-- #######################################################
+
+INSERT INTO `favorite`(`id`,`station_id`) VALUES (NULL,22);
+INSERT INTO `favorite`(`id`,`station_id`) VALUES (NULL,32);
+
+
+-- #######################################################
 -- #  Mission code
 -- #######################################################
 
@@ -83,7 +91,7 @@ INSERT INTO `mission_code`(`id`,`line_id`,`position`,`code`,`destination`) VALUE
 INSERT INTO `mission_code`(`id`,`line_id`,`position`,`code`,`destination`) VALUES (NULL,78,0,"D","La Plaine Stade de France");
 INSERT INTO `mission_code`(`id`,`line_id`,`position`,`code`,`destination`) VALUES (NULL,78,0,"F","Le Bourget");
 INSERT INTO `mission_code`(`id`,`line_id`,`position`,`code`,`destination`) VALUES (NULL,78,0,"M","Châtelet les Halles");
-INSERT INTO `mission_code`(`id`,`line_id`,`position`,`code`,`destination`) VALUES (NULL,78,0,"H",	"Bourg la Reine");
+INSERT INTO `mission_code`(`id`,`line_id`,`position`,`code`,`destination`) VALUES (NULL,78,0,"H","Bourg la Reine");
 INSERT INTO `mission_code`(`id`,`line_id`,`position`,`code`,`destination`) VALUES (NULL,78,0,"T","Palaiseau");
 INSERT INTO `mission_code`(`id`,`line_id`,`position`,`code`,`destination`) VALUES (NULL,78,0,"U","Laplace");
 INSERT INTO `mission_code`(`id`,`line_id`,`position`,`code`,`destination`) VALUES (NULL,78,0,"N","La Croix de Berny");
